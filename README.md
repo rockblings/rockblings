@@ -1,3 +1,1 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=rockblings&theme=highcontrast)](https://git.io/streak-stats)
-
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/rockblings?cardType=level&theme=github&preferLogin=false)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/rockblings?cardType=github&theme=monokai&preferLogin=false)](https://git.io/awesome-stats-card)
